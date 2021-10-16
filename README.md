@@ -12,3 +12,8 @@
 - Json Web Token
 - Logger
 - Helmet
+
+---
+
+
+- Public Private Route
